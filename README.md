@@ -1,3 +1,3 @@
 # WSDM - KKBox's Churn Prediction Challenge
 
-Top 23%
+成绩：Top 23%
